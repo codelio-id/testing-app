@@ -6,6 +6,7 @@
 !index.html
 !50x.html
 !404.html
+!readme.md
 
 # ...even if they are in subdirectories
 !*/
