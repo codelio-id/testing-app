@@ -1,11 +1,2 @@
-# Ignore everything
-*
-
-# But not these files...
-!.gitignore
-!index.html
-!50x.html
-!404.html
-!readme.md
-!icon/
-!.git/
+/phpmyadmin
+/test
